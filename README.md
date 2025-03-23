@@ -1,2 +1,3 @@
 # qq_gif_decrypt
-qq gif decrypt
+
+from /Android/data/com.tencent.mobileqq/Tencent/MobileQQ/.emotionsm folder Obtain GIF images
